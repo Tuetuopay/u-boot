@@ -244,5 +244,7 @@
 			#address-cells = <1>;
 			#size-cells = <0>;
 		};
+
+		mmc2: mmc@1c11000 {};
 	};
 };
